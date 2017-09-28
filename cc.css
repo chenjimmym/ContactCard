@@ -1,7 +1,7 @@
 #form{
     width: 350px;
     height: 500px;
-    background-color: #EBCAEB;
+    /* background-color: #EBCAEB; */
     display: inline-block;
     vertical-align: top;
     padding: 15px;
@@ -9,7 +9,7 @@
 #card{
     width: 500px;
     height: 500px;
-    background-color: #A385A3;
+    /* background-color: #A385A3; */
     display: inline-block;
     padding: 15px;
     /* text-align: center; */
